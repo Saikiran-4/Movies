@@ -17,5 +17,9 @@
     "url": "https://github.com/Saikiran-4/Movies/issues"
   },
   "homepage": "https://github.com/Saikiran-4/Movies#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^1.0.0-beta.3"
+  }
 }
